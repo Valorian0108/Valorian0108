@@ -66,4 +66,4 @@ I welcome grants and funded work on agent-policy infrastructure. I welcome
 documentation and tutorial bounties. I welcome collaboration on the rule layer
 for autonomous spenders.
 
-ifeoluwaoludemi34@gmail.com | @ifeteddy0108 |[x Account] 
+ifeoluwaoludemi34@gmail.com | @ifeteddy0108 |[X Account] 
